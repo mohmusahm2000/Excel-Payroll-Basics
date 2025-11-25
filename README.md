@@ -18,7 +18,7 @@ The project demonstrates practical Excel skills applied in stages:
    **Skills gained:** IF statements, decision-making based on conditions
 
 3. **Assignment 3: Cell Referencing & Formatting**  
-   **Skills gained:** Relative and absolute cell references, conditional formatting, exporting to PDF
+   **Skills gained:** Relative and absolute cell references, cell coloring, exporting to PDF
 
 4. **Payroll: Final Consolidated Project**
 
